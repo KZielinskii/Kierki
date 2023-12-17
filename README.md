@@ -40,3 +40,18 @@ Działanie aplikacji:
 Serwer komunikuję się z klientami za pomocą socketów. Dzięki wielowątkowości aplikacja pozwala grać w wielu pokojach równoczceśnie.
 Każda komenda wywołana przez klienta jest najpierw sprawdzana, a następnie wykonywane są odpowiednie polecenia.
 Klient w odpowiedzi na naciśnięcie dowolnego przycisku najpierw dostaję komendę główną, a następnie dane do przetworzenia przez klienta.
+
+# Rozgrywka:
+1. Logowanie:![Zrzut ekranu 2023-12-17 222419](https://github.com/KZielinskii/Kierki/assets/58587948/4a3ee33c-0588-4437-9a8e-2df390509667)
+2. Rejestracja: ![Zrzut ekranu 2023-12-17 222433](https://github.com/KZielinskii/Kierki/assets/58587948/584030a0-2a7f-4238-9d2c-6ab6585fc6a6)
+3. Ekran z pokojami: ![Zrzut ekranu 2023-12-17 222542](https://github.com/KZielinskii/Kierki/assets/58587948/4bcb469c-4883-4fe3-8e19-853126a9f8e2)
+4. Ekran z pokojami gdy pierwszy pokój jest prawie zapełniony: ![Zrzut ekranu 2023-12-17 222800](https://github.com/KZielinskii/Kierki/assets/58587948/0adbd00a-5769-444f-9319-3a2ee1cc3896)
+5. Oczekiwanie na graczy:![Zrzut ekranu 2023-12-17 222556](https://github.com/KZielinskii/Kierki/assets/58587948/d42ef589-e8a9-4678-ab8d-6d8c76872f6b)
+6. Rozgrywka:
+(Rozgrywka jest intuicyjna, mylące mogą okazać się zrzuty ekranu wykonane z widoków różnych graczy)
+![Zrzut ekranu 2023-12-17 222838](https://github.com/KZielinskii/Kierki/assets/58587948/01de54f9-876a-427b-9e42-c7301994af75)
+![Zrzut ekranu 2023-12-17 222856](https://github.com/KZielinskii/Kierki/assets/58587948/cb2eb0a1-771d-448e-8706-bcc775038125)
+![Zrzut ekranu 2023-12-17 222923](https://github.com/KZielinskii/Kierki/assets/58587948/01e6ca4c-32fd-40f5-baed-59fb10062a0a)
+![Zrzut ekranu 2023-12-17 222941](https://github.com/KZielinskii/Kierki/assets/58587948/5d7a2980-5afa-4c98-949a-5ec895b19086)
+![Zrzut ekranu 2023-12-17 222959](https://github.com/KZielinskii/Kierki/assets/58587948/7f60bb95-5034-4898-b260-bcb61b6e61ae)
+![Zrzut ekranu 2023-12-17 223010](https://github.com/KZielinskii/Kierki/assets/58587948/6e5b17b0-9024-4341-b63f-06f02f9b2180)

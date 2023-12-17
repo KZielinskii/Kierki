@@ -42,7 +42,7 @@ Każda komenda wywołana przez klienta jest najpierw sprawdzana, a następnie wy
 Klient w odpowiedzi na naciśnięcie dowolnego przycisku najpierw dostaję komendę główną, a następnie dane do przetworzenia przez klienta.
 
 # Rozgrywka:
-1. Logowanie:
+## 1. Logowanie:
 ![Zrzut ekranu 2023-12-17 222419](https://github.com/KZielinskii/Kierki/assets/58587948/4a3ee33c-0588-4437-9a8e-2df390509667)
 2. Rejestracja:
 ![Zrzut ekranu 2023-12-17 222433](https://github.com/KZielinskii/Kierki/assets/58587948/584030a0-2a7f-4238-9d2c-6ab6585fc6a6)
